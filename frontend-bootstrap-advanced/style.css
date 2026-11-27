@@ -1,0 +1,20 @@
+/* Most of the design comes from Bootstrap.
+   Only a few extra styles are written here. */
+
+.navbar-brand {
+    font-size: 1.4rem;
+}
+
+th {
+    white-space: nowrap;   /* keep table headings on one line */
+}
+.Header {
+    background-color: #0d6efd;
+    color: white;
+    padding: 15px;
+    width: 100%;
+}
+
+.Header h1 {
+    margin: 0;
+}
